@@ -1,6 +1,5 @@
-class Post 
+class Post
 
 
 
 end
-  
