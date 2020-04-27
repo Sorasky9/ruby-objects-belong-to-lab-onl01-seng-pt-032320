@@ -3,5 +3,5 @@ class Post
 attr_accessor :title
 
 end
-binding.pry
+#binding.pry
 post = Post.new
