@@ -5,3 +5,4 @@ attr_accessor :title
 end
 binding.pry
 post = Post.new
+author = post.author
